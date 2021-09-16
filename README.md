@@ -25,8 +25,8 @@ I am N0x, a Pentester and Web developer.
 
 ## 📊 Stats
 <a href="https://github.com/nundir/nundir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nundir&theme=dracula&line_height=27&show_icons=true&include_all_commits=true&count_private=true" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xN0x&theme=dracula&line_height=27&show_icons=true&include_all_commits=true&count_private=true" alt="Martin's GitHub Stats" />
 </a>
 <a href="https://github.com/nundir/nundir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nundir&hide=java,html,tex&theme=dracula&langs_count=3&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xN0x&hide=java,html,tex&theme=dracula&langs_count=3&count_private=true" />
 </a>
