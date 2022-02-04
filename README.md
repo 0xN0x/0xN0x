@@ -11,13 +11,14 @@ I am N0x, a Pentester and Web developer.
 ![](https://img.shields.io/badge/Docker-%2343853D?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)
 
 #### Languages & Framework
+![](https://img.shields.io/badge/C-%2343853D?style=for-the-badge&logo=c&logoColor=white&color=49747d)
 ![](https://img.shields.io/badge/Python-%2343853D?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/TypeScript-%2343853D?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/JavaScript-%2343853D?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/Markdown-%2343853D?style=for-the-badge&logo=markdown&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Go-%2343853D?style=for-the-badge&logo=go&logoColor=white&color=29BEB0)
 
 ![](https://img.shields.io/badge/React-%2343853D?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/Material_UI-%2343853D?style=for-the-badge&logo=material-ui&logoColor=white&color=0081CB)
+![](https://img.shields.io/badge/Chakra_UI-%2343853D?style=for-the-badge&logo=material-ui&logoColor=white&color=0081CB)
 
 #### Databases
 ![](https://img.shields.io/badge/SQLite-%2343853D?style=for-the-badge&logo=sqlite&logoColor=white&color=003B57)
