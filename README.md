@@ -2,9 +2,9 @@
 
 I am N0x, a cybersecurity specialist, CTF player and brainfuck developer.
 
-![](https://www.hackthebox.eu/badge/image/116871)
+![https://app.hackthebox.com/profile/116871](https://www.hackthebox.eu/badge/image/116871)
 
-![](https://tryhackme-badges.s3.amazonaws.com/N0xff.png)
+![https://tryhackme.com/p/N0xff](https://tryhackme-badges.s3.amazonaws.com/N0xff.png)
 
 ## 🔧 Technologies & Tools i'm using
 #### System
