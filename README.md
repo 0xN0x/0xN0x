@@ -1,14 +1,6 @@
+### Hi there 👋
 
-<div align="center">
-  <a style="text-decoration: none;" href="https://github.com/0xN0x">
-      <img style="border-radius:10px" src="https://img.shields.io/github/followers/0xN0x?logo=github&style=for-the-badge&logoColor=white&labelColor=181825&color=f5c2e7" />
-  </a>
-  <!-- this image was a nightmare -->
-  <a style="text-decoration: none;" href="https://github.com/0xN0x">
-      <img style="border-radius:10px" src="https://hits.sh/github.com/0xN0x/hits.svg?color=f9e2af&labelColor=181825&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BR2l0Qm9vazwvdGl0bGU%2BPHBhdGggZD0iTTEwLjgwMiAxNy43N2EuNzAzLjcwMyAwIDExLS4wMDIgMS40MDYuNzAzLjcwMyAwIDAxLjAwMi0xLjQwNm0xMS4wMjQtNC4zNDdhLjcwMy43MDMgMCAxMS4wMDEtMS40MDYuNzAzLjcwMyAwIDAxLS4wMDEgMS40MDZtMC0yLjg3NmEyLjE3NiAyLjE3NiAwIDAwLTIuMTc0IDIuMTc0YzAgLjIzMy4wMzkuNDY1LjExNS42OTFsLTcuMTgxIDMuODIzYTIuMTY1IDIuMTY1IDAgMDAtMS43ODQtLjkzN2MtLjgyOSAwLTEuNTg0LjQ3NS0xLjk1IDEuMjE2bC02LjQ1MS0zLjQwMmMtLjY4Mi0uMzU4LTEuMTkyLTEuNDgtMS4xMzgtMi41MDIuMDI4LS41MzMuMjEyLS45NDcuNDkzLTEuMTA3LjE3OC0uMS4zOTItLjA5Mi42Mi4wMjdsLjA0Mi4wMjNjMS43MS45IDcuMzA0IDMuODQ3IDcuNTQgMy45NTYuMzYzLjE2OS41NjUuMjM3IDEuMTg1LS4wNTdsMTEuNTY0LTYuMDE0Yy4xNy0uMDY0LjM2OC0uMjI3LjM2OC0uNDc0IDAtLjM0Mi0uMzU0LS40NzctLjM1NS0uNDc3LS42NTgtLjMxNS0xLjY2OS0uNzg4LTIuNjU1LTEuMjUtMi4xMDgtLjk4Ny00LjQ5Ny0yLjEwNS01LjU0Ni0yLjY1NS0uOTA2LS40NzQtMS42MzUtLjA3NC0xLjc2NS4wMDZsLS4yNTIuMTI1QzcuNzggNi4wNDggMS40NiA5LjE3OCAxLjEgOS4zOTcuNDU3IDkuNzg5LjA1OCAxMC41Ny4wMDYgMTEuNTM5Yy0uMDggMS41MzcuNzAzIDMuMTQgMS44MjQgMy43MjdsNi44MjIgMy41MThhMi4xNzUgMi4xNzUgMCAwMDIuMTUgMS44NjIgMi4xNzcgMi4xNzcgMCAwMDIuMTczLTIuMTRsNy41MTQtNC4wNzNjLjM4LjI5OC44NTMuNDYxIDEuMzM3LjQ2MUEyLjE3NiAyLjE3NiAwIDAwMjQgMTIuNzJhMi4xNzYgMi4xNzYgMCAwMC0yLjE3NC0yLjE3NCIvPjwvc3ZnPg%3D%3D&label=Profile%20Views"/>
-  </a>
-  <h1 style="border-bottom: none;">Hi, I'm N0x!</h1>
-</div>
+I'm Nox, a Pentester and DevSecOps.
 
 ```typescript
 let N0x = {
@@ -24,25 +16,42 @@ let N0x = {
 }
 ```
 
-<br/>  
+#### 👷 Check out what I'm currently working on
 
-## Cybersecurity
+- [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) - Private discord bot (3 months ago)
+- [Open-UAO/open-uao](https://github.com/Open-UAO/open-uao) (3 months ago)
+- [0xN0x/go-artifactsmmo-bot](https://github.com/0xN0x/go-artifactsmmo-bot) (4 months ago)
+- [0xN0x/go-artifactsmmo](https://github.com/0xN0x/go-artifactsmmo) - ArtifactsMMO API Golang Wrapper (4 months ago)
+- [0xN0x/albiononline-binary-dumper](https://github.com/0xN0x/albiononline-binary-dumper) - Dump the .bin files of Albion Online into XML and JSON (4 months ago)
 
-<div align="center">
+#### 🌱 My latest projects
 
-  ![https://app.hackthebox.com/profile/116871](https://www.hackthebox.eu/badge/image/116871)
+- [0xN0x/go-artifactsmmo-bot](https://github.com/0xN0x/go-artifactsmmo-bot)
+- [0xN0x/go-artifactsmmo](https://github.com/0xN0x/go-artifactsmmo) - ArtifactsMMO API Golang Wrapper
+- [0xN0x/dofus-map-drawer](https://github.com/0xN0x/dofus-map-drawer) - Program to draw map from map json file
+- [0xN0x/documentation](https://github.com/0xN0x/documentation)
+- [0xN0x/albiononline-binary-dumper](https://github.com/0xN0x/albiononline-binary-dumper) - Dump the .bin files of Albion Online into XML and JSON
 
-  ![https://tryhackme.com/p/N0xff](https://tryhackme-badges.s3.amazonaws.com/N0xff.png)
+#### 🔭 Latest releases I've contributed to
 
-</div>
 
-## Github Stats  
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=0xN0x&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
-</div>  
+#### 🔨 Latest Pull Requests I published
 
-<br/>  
+- [fix: getJsonValue don&#39;t have parent](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/160) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (8 months ago)
+- [Fix: typos ](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/158) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (9 months ago)
+- [Refactor comments](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/155) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (10 months ago)
+- [Refactor errors and badpractices](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/144) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (10 months ago)
+- [fix: incorrect usage of setAuthor](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/136) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (11 months ago)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xN0x&&style=flat-square" align="center" />
-</div>  
+#### ⭐ Recent stars
+
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (3 days ago)
+- [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program (1 week ago)
+- [huntergregal/mimipenguin](https://github.com/huntergregal/mimipenguin) - A tool to dump the login password from the current linux user (1 week ago)
+- [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code (2 weeks ago)
+- [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication (4 weeks ago)
+
+#### 💬 Feedback
+
+If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked
+and what needs being improved. Got an issue? Open a ticket, I don't bite and will try my best to help!
