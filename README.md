@@ -45,7 +45,7 @@ let N0x = {
 
 #### ⭐ Recent stars
 
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (3 days ago)
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (4 days ago)
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program (1 week ago)
 - [huntergregal/mimipenguin](https://github.com/huntergregal/mimipenguin) - A tool to dump the login password from the current linux user (1 week ago)
 - [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code (2 weeks ago)
