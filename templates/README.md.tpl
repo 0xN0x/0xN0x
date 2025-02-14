@@ -1,20 +1,6 @@
 ### Hi there 👋
 
-I'm Nox, a Pentester and DevSecOps.
-
-```typescript
-let N0x = {
-    // Basic Info
-    pronouns: "He/Him",
-    location: "France",
-    timezone: "CEST (UTC+2)",
-    bio: "I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍💻 🕵️",
-
-    // Coding
-    projects: [ "Auto-Hunt", "radio.rs", "RhinOSINT" ],
-    favoriteLanguages: [ "Go", "Rust", "Python", "C", "Assembly" ],
-}
-```
+I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍💻 🕵️
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
@@ -24,11 +10,6 @@ let N0x = {
 #### 🌱 My latest projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
-{{- end}}
-
-#### 🔭 Latest releases I've contributed to
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
 #### 🔨 Latest Pull Requests I published
