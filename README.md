@@ -1,20 +1,6 @@
 ### Hi there 👋
 
-I'm Nox, a Pentester and DevSecOps.
-
-```typescript
-let N0x = {
-    // Basic Info
-    pronouns: "He/Him",
-    location: "France",
-    timezone: "CEST (UTC+2)",
-    bio: "I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍💻 🕵️",
-
-    // Coding
-    projects: [ "Auto-Hunt", "radio.rs", "RhinOSINT" ],
-    favoriteLanguages: [ "Go", "Rust", "Python", "C", "Assembly" ],
-}
-```
+I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍💻 🕵️
 
 #### 👷 Check out what I'm currently working on
 
@@ -32,9 +18,6 @@ let N0x = {
 - [0xN0x/documentation](https://github.com/0xN0x/documentation)
 - [0xN0x/albiononline-binary-dumper](https://github.com/0xN0x/albiononline-binary-dumper) - Dump the .bin files of Albion Online into XML and JSON
 
-#### 🔭 Latest releases I've contributed to
-
-
 #### 🔨 Latest Pull Requests I published
 
 - [fix: getJsonValue don&#39;t have parent](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/160) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (8 months ago)
@@ -45,11 +28,11 @@ let N0x = {
 
 #### ⭐ Recent stars
 
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (today)
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (4 days ago)
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program (1 week ago)
 - [huntergregal/mimipenguin](https://github.com/huntergregal/mimipenguin) - A tool to dump the login password from the current linux user (1 week ago)
 - [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code (2 weeks ago)
-- [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication (4 weeks ago)
 
 #### 💬 Feedback
 
