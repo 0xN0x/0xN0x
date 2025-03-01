@@ -4,7 +4,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### 👷 Check out what I'm currently working on
 
-- [0xN0x/go-artifactsmmo](https://github.com/0xN0x/go-artifactsmmo) - ArtifactsMMO API Golang Wrapper (1 week ago)
+- [0xN0x/go-artifactsmmo](https://github.com/0xN0x/go-artifactsmmo) - ArtifactsMMO API Golang Wrapper (2 weeks ago)
 - [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) - Private discord bot (3 months ago)
 - [Open-UAO/open-uao](https://github.com/Open-UAO/open-uao) (3 months ago)
 - [0xN0x/go-artifactsmmo-bot](https://github.com/0xN0x/go-artifactsmmo-bot) (4 months ago)
@@ -20,8 +20,8 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rounder round](https://github.com/matsuyoshi30/germanium/pull/42) on [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) (today)
-- [Remove extra indentation](https://github.com/matsuyoshi30/germanium/pull/41) on [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) (today)
+- [Rounder round](https://github.com/matsuyoshi30/germanium/pull/42) on [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) (1 day ago)
+- [Remove extra indentation](https://github.com/matsuyoshi30/germanium/pull/41) on [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) (1 day ago)
 - [fix: getJsonValue don&#39;t have parent](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/160) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (9 months ago)
 - [Fix: typos ](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/158) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (10 months ago)
 - [Refactor comments](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/155) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (10 months ago)
