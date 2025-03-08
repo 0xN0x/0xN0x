@@ -4,7 +4,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### 👷 Check out what I'm currently working on
 
-- [0xN0x/go-artifactsmmo](https://github.com/0xN0x/go-artifactsmmo) - ArtifactsMMO API Golang Wrapper (2 weeks ago)
+- [0xN0x/go-artifactsmmo](https://github.com/0xN0x/go-artifactsmmo) - ArtifactsMMO API Golang Wrapper (3 weeks ago)
 - [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) - Private discord bot (3 months ago)
 - [Open-UAO/open-uao](https://github.com/Open-UAO/open-uao) (3 months ago)
 - [0xN0x/go-artifactsmmo-bot](https://github.com/0xN0x/go-artifactsmmo-bot) (4 months ago)
@@ -28,7 +28,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### ⭐ Recent stars
 
-- [ScorpionesLabs/MSSqlPwner](https://github.com/ScorpionesLabs/MSSqlPwner) (3 days ago)
+- [ScorpionesLabs/MSSqlPwner](https://github.com/ScorpionesLabs/MSSqlPwner) (4 days ago)
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) (2 weeks ago)
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era. (2 weeks ago)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (3 weeks ago)
