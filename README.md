@@ -4,10 +4,10 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### 👷 Check out what I'm currently working on
 
-- [0xN0x/go-artifactsmmo](https://github.com/0xN0x/go-artifactsmmo) - ArtifactsMMO API Golang Wrapper (2 days ago)
+- [0xN0x/go-artifactsmmo](https://github.com/0xN0x/go-artifactsmmo) - ArtifactsMMO API Golang Wrapper (3 days ago)
 - [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) - Private discord bot (4 months ago)
 - [Open-UAO/open-uao](https://github.com/Open-UAO/open-uao) (4 months ago)
-- [0xN0x/go-artifactsmmo-bot](https://github.com/0xN0x/go-artifactsmmo-bot) (4 months ago)
+- [0xN0x/go-artifactsmmo-bot](https://github.com/0xN0x/go-artifactsmmo-bot) (5 months ago)
 - [0xN0x/albiononline-binary-dumper](https://github.com/0xN0x/albiononline-binary-dumper) - Dump the .bin files of Albion Online into XML and JSON (5 months ago)
 
 #### 🌱 My latest projects
@@ -28,8 +28,8 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### ⭐ Recent stars
 
-- [openpatch/hyperbook](https://github.com/openpatch/hyperbook) - Hyperbook is a quick and easy way to build interactive workbooks, that support modern standards and runs superfast. (2 days ago)
-- [patrickhener/goshs](https://github.com/patrickhener/goshs) - A SimpleHTTPServer written in Go, enhanced with features and with a nice design - https://goshs.de (5 days ago)
+- [openpatch/hyperbook](https://github.com/openpatch/hyperbook) - Hyperbook is a quick and easy way to build interactive workbooks, that support modern standards and runs superfast. (3 days ago)
+- [patrickhener/goshs](https://github.com/patrickhener/goshs) - A SimpleHTTPServer written in Go, enhanced with features and with a nice design - https://goshs.de (6 days ago)
 - [ScorpionesLabs/MSSqlPwner](https://github.com/ScorpionesLabs/MSSqlPwner) (1 week ago)
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) (3 weeks ago)
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era. (3 weeks ago)
