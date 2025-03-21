@@ -20,19 +20,19 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rounder round](https://github.com/matsuyoshi30/germanium/pull/42) on [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) (2 weeks ago)
-- [Remove extra indentation](https://github.com/matsuyoshi30/germanium/pull/41) on [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) (2 weeks ago)
+- [Rounder round](https://github.com/matsuyoshi30/germanium/pull/42) on [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) (3 weeks ago)
+- [Remove extra indentation](https://github.com/matsuyoshi30/germanium/pull/41) on [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) (3 weeks ago)
 - [fix: getJsonValue don&#39;t have parent](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/160) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (9 months ago)
 - [Fix: typos ](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/158) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (10 months ago)
 - [Refactor comments](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/155) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (11 months ago)
 
 #### ⭐ Recent stars
 
-- [subframe7536/vscode-codeimg](https://github.com/subframe7536/vscode-codeimg) - VSCode extension that generate beautiful image for you code with your favorite font and theme. Powered by solid.js (3 days ago)
+- [subframe7536/vscode-codeimg](https://github.com/subframe7536/vscode-codeimg) - VSCode extension that generate beautiful image for you code with your favorite font and theme. Powered by solid.js (4 days ago)
 - [openpatch/hyperbook](https://github.com/openpatch/hyperbook) - Hyperbook is a quick and easy way to build interactive workbooks, that support modern standards and runs superfast. (1 week ago)
 - [patrickhener/goshs](https://github.com/patrickhener/goshs) - A SimpleHTTPServer written in Go, enhanced with features and with a nice design - https://goshs.de (1 week ago)
 - [ScorpionesLabs/MSSqlPwner](https://github.com/ScorpionesLabs/MSSqlPwner) (2 weeks ago)
-- [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) (3 weeks ago)
+- [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) (4 weeks ago)
 
 #### 💬 Feedback
 
