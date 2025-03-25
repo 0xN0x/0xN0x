@@ -28,8 +28,8 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### ⭐ Recent stars
 
-- [sorbrex/Kinga](https://github.com/sorbrex/Kinga) - CLI Tool wich convert Tachiyomi downloaded manga in single volume to read with kindle devices (2 days ago)
-- [spyboy-productions/CamXploit](https://github.com/spyboy-productions/CamXploit) - Find, analyze, and check for exposed IP cameras with open ports, known vulnerabilities, and weak login credentials. (3 days ago)
+- [sorbrex/Kinga](https://github.com/sorbrex/Kinga) - CLI Tool wich convert Tachiyomi downloaded manga in single volume to read with kindle devices (3 days ago)
+- [spyboy-productions/CamXploit](https://github.com/spyboy-productions/CamXploit) - Find, analyze, and check for exposed IP cameras with open ports, known vulnerabilities, and weak login credentials. (4 days ago)
 - [subframe7536/vscode-codeimg](https://github.com/subframe7536/vscode-codeimg) - VSCode extension that generate beautiful image for you code with your favorite font and theme. Powered by solid.js (1 week ago)
 - [openpatch/hyperbook](https://github.com/openpatch/hyperbook) - Hyperbook is a quick and easy way to build interactive workbooks, that support modern standards and runs superfast. (1 week ago)
 - [patrickhener/goshs](https://github.com/patrickhener/goshs) - A SimpleHTTPServer written in Go, enhanced with features and with a nice design - https://goshs.de (2 weeks ago)
