@@ -20,17 +20,17 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rounder round](https://github.com/matsuyoshi30/germanium/pull/42) on [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) (3 weeks ago)
-- [Remove extra indentation](https://github.com/matsuyoshi30/germanium/pull/41) on [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) (3 weeks ago)
+- [Rounder round](https://github.com/matsuyoshi30/germanium/pull/42) on [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) (4 weeks ago)
+- [Remove extra indentation](https://github.com/matsuyoshi30/germanium/pull/41) on [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) (4 weeks ago)
 - [fix: getJsonValue don&#39;t have parent](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/160) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (10 months ago)
 - [Fix: typos ](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/158) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (11 months ago)
 - [Refactor comments](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/155) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (11 months ago)
 
 #### ⭐ Recent stars
 
-- [BreizhCTF/breizhctf-2025](https://github.com/BreizhCTF/breizhctf-2025) - Sources et Writeup du Breizh CTF 2025 (2 days ago)
-- [sorbrex/Kinga](https://github.com/sorbrex/Kinga) - CLI Tool wich convert Tachiyomi downloaded manga in single volume to read with kindle devices (5 days ago)
-- [spyboy-productions/CamXploit](https://github.com/spyboy-productions/CamXploit) - Find, analyze, and check for exposed IP cameras with open ports, known vulnerabilities, and weak login credentials. (6 days ago)
+- [BreizhCTF/breizhctf-2025](https://github.com/BreizhCTF/breizhctf-2025) - Sources et Writeup du Breizh CTF 2025 (3 days ago)
+- [sorbrex/Kinga](https://github.com/sorbrex/Kinga) - CLI Tool wich convert Tachiyomi downloaded manga in single volume to read with kindle devices (6 days ago)
+- [spyboy-productions/CamXploit](https://github.com/spyboy-productions/CamXploit) - Find, analyze, and check for exposed IP cameras with open ports, known vulnerabilities, and weak login credentials. (1 week ago)
 - [subframe7536/vscode-codeimg](https://github.com/subframe7536/vscode-codeimg) - VSCode extension that generate beautiful image for you code with your favorite font and theme. Powered by solid.js (1 week ago)
 - [openpatch/hyperbook](https://github.com/openpatch/hyperbook) - Hyperbook is a quick and easy way to build interactive workbooks, that support modern standards and runs superfast. (2 weeks ago)
 
