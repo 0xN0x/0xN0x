@@ -5,7 +5,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 #### 👷 Check out what I'm currently working on
 
 - [0xN0x/go-artifactsmmo](https://github.com/0xN0x/go-artifactsmmo) - ArtifactsMMO API Golang Wrapper (2 weeks ago)
-- [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code (4 weeks ago)
+- [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code (1 month ago)
 - [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) - Private discord bot (4 months ago)
 - [Open-UAO/open-uao](https://github.com/Open-UAO/open-uao) (4 months ago)
 - [0xN0x/go-artifactsmmo-bot](https://github.com/0xN0x/go-artifactsmmo-bot) (5 months ago)
@@ -28,8 +28,8 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### ⭐ Recent stars
 
-- [Nuand/sdrsharp-bladerf](https://github.com/Nuand/sdrsharp-bladerf) - bladeRF driver for SDR# (3 days ago)
-- [BreizhCTF/breizhctf-2025](https://github.com/BreizhCTF/breizhctf-2025) - Sources et Writeup du Breizh CTF 2025 (6 days ago)
+- [Nuand/sdrsharp-bladerf](https://github.com/Nuand/sdrsharp-bladerf) - bladeRF driver for SDR# (4 days ago)
+- [BreizhCTF/breizhctf-2025](https://github.com/BreizhCTF/breizhctf-2025) - Sources et Writeup du Breizh CTF 2025 (1 week ago)
 - [sorbrex/Kinga](https://github.com/sorbrex/Kinga) - CLI Tool wich convert Tachiyomi downloaded manga in single volume to read with kindle devices (1 week ago)
 - [spyboy-productions/CamXploit](https://github.com/spyboy-productions/CamXploit) - Find, analyze, and check for exposed IP cameras with open ports, known vulnerabilities, and weak login credentials. (1 week ago)
 - [subframe7536/vscode-codeimg](https://github.com/subframe7536/vscode-codeimg) - VSCode extension that generate beautiful image for you code with your favorite font and theme. Powered by solid.js (2 weeks ago)
