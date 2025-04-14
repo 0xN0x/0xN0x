@@ -8,7 +8,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 - [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code (1 month ago)
 - [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) - Private discord bot (5 months ago)
 - [Open-UAO/open-uao](https://github.com/Open-UAO/open-uao) (5 months ago)
-- [0xN0x/go-artifactsmmo-bot](https://github.com/0xN0x/go-artifactsmmo-bot) (5 months ago)
+- [0xN0x/go-artifactsmmo-bot](https://github.com/0xN0x/go-artifactsmmo-bot) (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 - [BreizhCTF/breizhctf-2025](https://github.com/BreizhCTF/breizhctf-2025) - Sources et Writeup du Breizh CTF 2025 (2 weeks ago)
 - [sorbrex/Kinga](https://github.com/sorbrex/Kinga) - CLI Tool wich convert Tachiyomi downloaded manga in single volume to read with kindle devices (3 weeks ago)
 - [spyboy-productions/CamXploit](https://github.com/spyboy-productions/CamXploit) - Find, analyze, and check for exposed IP cameras with open ports, known vulnerabilities, and weak login credentials. (3 weeks ago)
-- [subframe7536/vscode-codeimg](https://github.com/subframe7536/vscode-codeimg) - VSCode extension that generate beautiful image for you code or terminal with your favorite font and theme. Powered by solid.js (3 weeks ago)
+- [subframe7536/vscode-codeimg](https://github.com/subframe7536/vscode-codeimg) - VSCode extension that generate beautiful image for you code or terminal with your favorite font and theme. Powered by solid.js (4 weeks ago)
 
 #### 💬 Feedback
 
