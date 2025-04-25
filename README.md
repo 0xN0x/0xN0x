@@ -28,8 +28,8 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### ⭐ Recent stars
 
-- [PAPAMICA/sshtools](https://github.com/PAPAMICA/sshtools) (2 days ago)
-- [Nuand/sdrsharp-bladerf](https://github.com/Nuand/sdrsharp-bladerf) - bladeRF driver for SDR# (3 weeks ago)
+- [PAPAMICA/sshtools](https://github.com/PAPAMICA/sshtools) (3 days ago)
+- [Nuand/sdrsharp-bladerf](https://github.com/Nuand/sdrsharp-bladerf) - bladeRF driver for SDR# (4 weeks ago)
 - [BreizhCTF/breizhctf-2025](https://github.com/BreizhCTF/breizhctf-2025) - Sources et Writeup du Breizh CTF 2025 (1 month ago)
 - [sorbrex/Kinga](https://github.com/sorbrex/Kinga) - CLI Tool wich convert Tachiyomi downloaded manga in single volume to read with kindle devices (1 month ago)
 - [spyboy-productions/CamXploit](https://github.com/spyboy-productions/CamXploit) - Find, analyze, and check for exposed IP cameras with open ports, known vulnerabilities, and weak login credentials. (1 month ago)
