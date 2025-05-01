@@ -5,7 +5,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 #### 👷 Check out what I'm currently working on
 
 - [0xN0x/go-artifactsmmo](https://github.com/0xN0x/go-artifactsmmo) - ArtifactsMMO API Golang Wrapper (1 month ago)
-- [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code (1 month ago)
+- [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code (2 months ago)
 - [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) - Private discord bot (5 months ago)
 - [Open-UAO/open-uao](https://github.com/Open-UAO/open-uao) (5 months ago)
 - [0xN0x/go-artifactsmmo-bot](https://github.com/0xN0x/go-artifactsmmo-bot) (6 months ago)
