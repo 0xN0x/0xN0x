@@ -28,7 +28,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### ⭐ Recent stars
 
-- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine (1 day ago)
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine (2 days ago)
 - [PAPAMICA/sshtools](https://github.com/PAPAMICA/sshtools) (2 weeks ago)
 - [Nuand/sdrsharp-bladerf](https://github.com/Nuand/sdrsharp-bladerf) - bladeRF driver for SDR# (1 month ago)
 - [BreizhCTF/breizhctf-2025](https://github.com/BreizhCTF/breizhctf-2025) - Sources et Writeup du Breizh CTF 2025 (1 month ago)
