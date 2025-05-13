@@ -6,8 +6,8 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 - [0xN0x/go-artifactsmmo](https://github.com/0xN0x/go-artifactsmmo) - ArtifactsMMO API Golang Wrapper (2 months ago)
 - [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code (2 months ago)
-- [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) - Private discord bot (5 months ago)
-- [Open-UAO/open-uao](https://github.com/Open-UAO/open-uao) (5 months ago)
+- [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) - Private discord bot (6 months ago)
+- [Open-UAO/open-uao](https://github.com/Open-UAO/open-uao) (6 months ago)
 - [0xN0x/go-artifactsmmo-bot](https://github.com/0xN0x/go-artifactsmmo-bot) (6 months ago)
 
 #### 🌱 My latest projects
@@ -28,8 +28,8 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### ⭐ Recent stars
 
-- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine (6 days ago)
-- [PAPAMICA/sshtools](https://github.com/PAPAMICA/sshtools) (2 weeks ago)
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine (1 week ago)
+- [PAPAMICA/sshtools](https://github.com/PAPAMICA/sshtools) (3 weeks ago)
 - [Nuand/sdrsharp-bladerf](https://github.com/Nuand/sdrsharp-bladerf) - bladeRF driver for SDR# (1 month ago)
 - [BreizhCTF/breizhctf-2025](https://github.com/BreizhCTF/breizhctf-2025) - Sources et Writeup du Breizh CTF 2025 (1 month ago)
 - [sorbrex/Kinga](https://github.com/sorbrex/Kinga) - CLI Tool wich convert Tachiyomi downloaded manga in single volume to read with kindle devices (1 month ago)
