@@ -29,7 +29,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 #### ⭐ Recent stars
 
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine (2 weeks ago)
-- [PAPAMICA/sshtools](https://github.com/PAPAMICA/sshtools) (4 weeks ago)
+- [PAPAMICA/sshtools](https://github.com/PAPAMICA/sshtools) (1 month ago)
 - [Nuand/sdrsharp-bladerf](https://github.com/Nuand/sdrsharp-bladerf) - bladeRF driver for SDR# (1 month ago)
 - [BreizhCTF/breizhctf-2025](https://github.com/BreizhCTF/breizhctf-2025) - Sources et Writeup du Breizh CTF 2025 (1 month ago)
 - [sorbrex/Kinga](https://github.com/sorbrex/Kinga) - CLI Tool wich convert Tachiyomi downloaded manga in single volume to read with kindle devices (2 months ago)
