@@ -28,7 +28,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### ⭐ Recent stars
 
-- [Xpl0itR/protodec](https://github.com/Xpl0itR/protodec) - A tool to decompile protoc compiled protobuf classes back into .proto definitions. (2 days ago)
+- [Xpl0itR/protodec](https://github.com/Xpl0itR/protodec) - A tool to decompile protoc compiled protobuf classes back into .proto definitions. (3 days ago)
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine (2 weeks ago)
 - [PAPAMICA/sshtools](https://github.com/PAPAMICA/sshtools) (1 month ago)
 - [Nuand/sdrsharp-bladerf](https://github.com/Nuand/sdrsharp-bladerf) - bladeRF driver for SDR# (1 month ago)
