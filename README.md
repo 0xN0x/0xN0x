@@ -28,8 +28,8 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### ⭐ Recent stars
 
-- [Orange-Cyberdefense/grepmarx](https://github.com/Orange-Cyberdefense/grepmarx) - A source code static analysis platform for AppSec enthusiasts. (today)
-- [Xpl0itR/protodec](https://github.com/Xpl0itR/protodec) - A tool to decompile protoc compiled protobuf classes back into .proto definitions. (4 days ago)
+- [Orange-Cyberdefense/grepmarx](https://github.com/Orange-Cyberdefense/grepmarx) - A source code static analysis platform for AppSec enthusiasts. (1 day ago)
+- [Xpl0itR/protodec](https://github.com/Xpl0itR/protodec) - A tool to decompile protoc compiled protobuf classes back into .proto definitions. (5 days ago)
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine (3 weeks ago)
 - [PAPAMICA/sshtools](https://github.com/PAPAMICA/sshtools) (1 month ago)
 - [Nuand/sdrsharp-bladerf](https://github.com/Nuand/sdrsharp-bladerf) - bladeRF driver for SDR# (2 months ago)
