@@ -5,7 +5,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 #### 👷 Check out what I'm currently working on
 
 - [0xN0x/go-artifactsmmo](https://github.com/0xN0x/go-artifactsmmo) - ArtifactsMMO API Golang Wrapper (2 months ago)
-- [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code (2 months ago)
+- [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code (3 months ago)
 - [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) - Private discord bot (6 months ago)
 - [Open-UAO/open-uao](https://github.com/Open-UAO/open-uao) (6 months ago)
 - [0xN0x/go-artifactsmmo-bot](https://github.com/0xN0x/go-artifactsmmo-bot) (7 months ago)
@@ -28,7 +28,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### ⭐ Recent stars
 
-- [Orange-Cyberdefense/grepmarx](https://github.com/Orange-Cyberdefense/grepmarx) - A source code static analysis platform for AppSec enthusiasts. (3 days ago)
+- [Orange-Cyberdefense/grepmarx](https://github.com/Orange-Cyberdefense/grepmarx) - A source code static analysis platform for AppSec enthusiasts. (4 days ago)
 - [Xpl0itR/protodec](https://github.com/Xpl0itR/protodec) - A tool to decompile protoc compiled protobuf classes back into .proto definitions. (1 week ago)
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine (3 weeks ago)
 - [PAPAMICA/sshtools](https://github.com/PAPAMICA/sshtools) (1 month ago)
