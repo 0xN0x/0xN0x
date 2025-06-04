@@ -28,9 +28,9 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### ⭐ Recent stars
 
-- [NVlabs/sionna](https://github.com/NVlabs/sionna) - Sionna: An Open-Source Library for Research on Communication Systems (1 day ago)
-- [Jeija/renard-phy](https://github.com/Jeija/renard-phy) - Open Sigfox Stack Reference Implementation - Physical Layer for SDR (1 day ago)
-- [Jeija/librenard](https://github.com/Jeija/librenard) -  Reverse Engineered Sigfox Stack - Library (1 day ago)
+- [NVlabs/sionna](https://github.com/NVlabs/sionna) - Sionna: An Open-Source Library for Research on Communication Systems (2 days ago)
+- [Jeija/renard-phy](https://github.com/Jeija/renard-phy) - Open Sigfox Stack Reference Implementation - Physical Layer for SDR (2 days ago)
+- [Jeija/librenard](https://github.com/Jeija/librenard) -  Reverse Engineered Sigfox Stack - Library (2 days ago)
 - [Orange-Cyberdefense/grepmarx](https://github.com/Orange-Cyberdefense/grepmarx) - A source code static analysis platform for AppSec enthusiasts. (1 week ago)
 - [Xpl0itR/protodec](https://github.com/Xpl0itR/protodec) - A tool to decompile protoc compiled protobuf classes back into .proto definitions. (1 week ago)
 
