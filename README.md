@@ -4,7 +4,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### 👷 Check out what I'm currently working on
 
-- [0xN0x/go-artifactsmmo](https://github.com/0xN0x/go-artifactsmmo) - ArtifactsMMO API Golang Wrapper (2 months ago)
+- [0xN0x/go-artifactsmmo](https://github.com/0xN0x/go-artifactsmmo) - ArtifactsMMO API Golang Wrapper (3 months ago)
 - [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code (3 months ago)
 - [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) - Private discord bot (6 months ago)
 - [Open-UAO/open-uao](https://github.com/Open-UAO/open-uao) (6 months ago)
@@ -31,7 +31,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 - [NVlabs/sionna](https://github.com/NVlabs/sionna) - Sionna: An Open-Source Library for Research on Communication Systems (1 week ago)
 - [Jeija/renard-phy](https://github.com/Jeija/renard-phy) - Open Sigfox Stack Reference Implementation - Physical Layer for SDR (1 week ago)
 - [Jeija/librenard](https://github.com/Jeija/librenard) -  Reverse Engineered Sigfox Stack - Library (1 week ago)
-- [Orange-Cyberdefense/grepmarx](https://github.com/Orange-Cyberdefense/grepmarx) - A source code static analysis platform for AppSec enthusiasts. (1 week ago)
+- [Orange-Cyberdefense/grepmarx](https://github.com/Orange-Cyberdefense/grepmarx) - A source code static analysis platform for AppSec enthusiasts. (2 weeks ago)
 - [Xpl0itR/protodec](https://github.com/Xpl0itR/protodec) - A tool to decompile protoc compiled protobuf classes back into .proto definitions. (2 weeks ago)
 
 #### 💬 Feedback
