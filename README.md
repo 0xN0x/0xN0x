@@ -12,11 +12,11 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### 🌱 My latest projects
 
+- [0xN0x/go-protocol16](https://github.com/0xN0x/go-protocol16) - A Golang library to parse Photon&#39;s Protocol16 
 - [0xN0x/Backer](https://github.com/0xN0x/Backer) - Backer is a docker backup utility implemented in Go
 - [0xN0x/go-artifactsmmo-bot](https://github.com/0xN0x/go-artifactsmmo-bot)
 - [0xN0x/go-artifactsmmo](https://github.com/0xN0x/go-artifactsmmo) - ArtifactsMMO API Golang Wrapper
 - [0xN0x/dofus-map-drawer](https://github.com/0xN0x/dofus-map-drawer) - Program to draw map from map json file
-- [0xN0x/documentation](https://github.com/0xN0x/documentation)
 
 #### 🔨 Latest Pull Requests I published
 
