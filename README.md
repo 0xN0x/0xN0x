@@ -28,11 +28,11 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### ⭐ Recent stars
 
-- [francisconeves97/jxscout](https://github.com/francisconeves97/jxscout) - jxscout superpowers JavaScript analysis for security researchers (3 days ago)
+- [francisconeves97/jxscout](https://github.com/francisconeves97/jxscout) - jxscout superpowers JavaScript analysis for security researchers (4 days ago)
 - [NVlabs/sionna](https://github.com/NVlabs/sionna) - Sionna: An Open-Source Library for Research on Communication Systems (3 weeks ago)
 - [Jeija/renard-phy](https://github.com/Jeija/renard-phy) - Open Sigfox Stack Reference Implementation - Physical Layer for SDR (3 weeks ago)
 - [Jeija/librenard](https://github.com/Jeija/librenard) -  Reverse Engineered Sigfox Stack - Library (3 weeks ago)
-- [Orange-Cyberdefense/grepmarx](https://github.com/Orange-Cyberdefense/grepmarx) - A source code static analysis platform for AppSec enthusiasts. (3 weeks ago)
+- [Orange-Cyberdefense/grepmarx](https://github.com/Orange-Cyberdefense/grepmarx) - A source code static analysis platform for AppSec enthusiasts. (4 weeks ago)
 
 #### 💬 Feedback
 
