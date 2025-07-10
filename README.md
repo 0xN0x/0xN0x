@@ -4,7 +4,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### 👷 Check out what I'm currently working on
 
-- [0xN0x/go-artifactsmmo](https://github.com/0xN0x/go-artifactsmmo) - ArtifactsMMO API Golang Wrapper (3 months ago)
+- [0xN0x/go-artifactsmmo](https://github.com/0xN0x/go-artifactsmmo) - ArtifactsMMO API Golang Wrapper (4 months ago)
 - [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code (4 months ago)
 - [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) - Private discord bot (7 months ago)
 - [Open-UAO/open-uao](https://github.com/Open-UAO/open-uao) (7 months ago)
@@ -28,7 +28,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### ⭐ Recent stars
 
-- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q (5 days ago)
+- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q (6 days ago)
 - [francisconeves97/jxscout](https://github.com/francisconeves97/jxscout) - jxscout superpowers JavaScript analysis for security researchers (2 weeks ago)
 - [NVlabs/sionna](https://github.com/NVlabs/sionna) - Sionna: An Open-Source Library for Research on Communication Systems (1 month ago)
 - [Jeija/renard-phy](https://github.com/Jeija/renard-phy) - Open Sigfox Stack Reference Implementation - Physical Layer for SDR (1 month ago)
