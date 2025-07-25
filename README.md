@@ -28,7 +28,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### ⭐ Recent stars
 
-- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q (2 weeks ago)
+- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q (3 weeks ago)
 - [francisconeves97/jxscout](https://github.com/francisconeves97/jxscout) - jxscout superpowers JavaScript analysis for security researchers (1 month ago)
 - [NVlabs/sionna](https://github.com/NVlabs/sionna) - Sionna: An Open-Source Library for Research on Communication Systems (1 month ago)
 - [Jeija/renard-phy](https://github.com/Jeija/renard-phy) - Open Sigfox Stack Reference Implementation - Physical Layer for SDR (1 month ago)
