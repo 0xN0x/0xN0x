@@ -28,11 +28,11 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### ⭐ Recent stars
 
+- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service (today)
 - [jvoisin/snuffleupagus](https://github.com/jvoisin/snuffleupagus) - Security module for php7 and php8 - Killing bugclasses and virtual-patching the rest! (3 weeks ago)
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q (2 months ago)
 - [francisconeves97/jxscout](https://github.com/francisconeves97/jxscout) - jxscout superpowers JavaScript analysis for security researchers (2 months ago)
 - [NVlabs/sionna](https://github.com/NVlabs/sionna) - Sionna: An Open-Source Library for Research on Communication Systems (3 months ago)
-- [Jeija/renard-phy](https://github.com/Jeija/renard-phy) - Open Sigfox Stack Reference Implementation - Physical Layer for SDR (3 months ago)
 
 #### 💬 Feedback
 
