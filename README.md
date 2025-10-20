@@ -22,12 +22,12 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 - [Rounder round](https://github.com/matsuyoshi30/germanium/pull/42) on [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) (7 months ago)
 - [Remove extra indentation](https://github.com/matsuyoshi30/germanium/pull/41) on [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) (7 months ago)
 - [fix: getJsonValue don&#39;t have parent](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/160) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (1 year ago)
-- [Fix: typos ](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/158) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (1 year ago)
+- [Fix: typos ](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/158) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (2 years ago)
 - [Refactor comments](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/155) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (2 years ago)
 
 #### ⭐ Recent stars
 
-- [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) - Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects. (6 days ago)
+- [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) - Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects. (1 week ago)
 - [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告 (1 week ago)
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. (1 week ago)
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service (1 month ago)
