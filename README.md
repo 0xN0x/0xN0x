@@ -25,11 +25,11 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### ⭐ Recent stars
 
-- [liquidmetal-dev/fl](https://github.com/liquidmetal-dev/fl) - A CLI for interacting with Flintlock (today)
-- [mitmproxy/android-unpinner](https://github.com/mitmproxy/android-unpinner) - Remove Certificate Pinning from APKs (1 week ago)
+- [liquidmetal-dev/fl](https://github.com/liquidmetal-dev/fl) - A CLI for interacting with Flintlock (1 day ago)
+- [mitmproxy/android-unpinner](https://github.com/mitmproxy/android-unpinner) - Remove Certificate Pinning from APKs (2 weeks ago)
 - [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments (3 weeks ago)
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (3 weeks ago)
-- [Notifuse/notifuse](https://github.com/Notifuse/notifuse) - Notifuse is an open-source &amp; modern emailing platform (4 weeks ago)
+- [Notifuse/notifuse](https://github.com/Notifuse/notifuse) - Notifuse is an open-source &amp; modern emailing platform (1 month ago)
 
 #### 💬 Feedback
 
