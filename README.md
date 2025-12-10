@@ -26,9 +26,9 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 #### ⭐ Recent stars
 
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal. (1 week ago)
-- [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services (1 week ago)
+- [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services (2 weeks ago)
 - [liquidmetal-dev/fl](https://github.com/liquidmetal-dev/fl) - A CLI for interacting with Flintlock (2 weeks ago)
-- [mitmproxy/android-unpinner](https://github.com/mitmproxy/android-unpinner) - Remove Certificate Pinning from APKs (3 weeks ago)
+- [mitmproxy/android-unpinner](https://github.com/mitmproxy/android-unpinner) - Remove Certificate Pinning from APKs (4 weeks ago)
 - [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments (1 month ago)
 
 #### 💬 Feedback
