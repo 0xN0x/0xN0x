@@ -26,11 +26,11 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### ⭐ Recent stars
 
+- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems (today)
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11. (5 days ago)
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal. (2 weeks ago)
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services (2 weeks ago)
 - [liquidmetal-dev/fl](https://github.com/liquidmetal-dev/fl) - A CLI for interacting with Flintlock (2 weeks ago)
-- [mitmproxy/android-unpinner](https://github.com/mitmproxy/android-unpinner) - Remove Certificate Pinning from APKs (1 month ago)
 
 #### 💬 Feedback
 
