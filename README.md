@@ -25,7 +25,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 #### ⭐ Recent stars
 
 - [0ca/BoxPwnr-Traces](https://github.com/0ca/BoxPwnr-Traces) - LLM agent solving traces, leaderboards, and benchmark results across security CTF and hacking platforms (1 week ago)
-- [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot  (1 week ago)
+- [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot  (2 weeks ago)
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers. (2 months ago)
 - [ashish0kumar/windots](https://github.com/ashish0kumar/windots) - my windows setup (3 months ago)
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems (3 months ago)
