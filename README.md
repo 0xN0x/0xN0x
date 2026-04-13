@@ -24,7 +24,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### ⭐ Recent stars
 
-- [obdev/littlesnitch-linux](https://github.com/obdev/littlesnitch-linux) - Open Source components of Little Snitch for Linux (today)
+- [obdev/littlesnitch-linux](https://github.com/obdev/littlesnitch-linux) - Open Source components of Little Snitch for Linux (1 day ago)
 - [0ca/BoxPwnr-Traces](https://github.com/0ca/BoxPwnr-Traces) - LLM agent solving traces, leaderboards, and benchmark results across security CTF and hacking platforms (2 weeks ago)
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot  (3 weeks ago)
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers. (2 months ago)
