@@ -8,11 +8,11 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### 🌱 My latest projects
 
+- [0xN0x/echoswagger](https://github.com/0xN0x/echoswagger) - Swagger UI generator for Echo framework
 - [0xN0x/go-protonengine](https://github.com/0xN0x/go-protonengine) - A Golang library to parse Photon&#39;s Protocol16 
 - [0xN0x/Backer](https://github.com/0xN0x/Backer) - Backer is a docker backup utility implemented in Go
 - [0xN0x/go-artifactsmmo-bot](https://github.com/0xN0x/go-artifactsmmo-bot)
 - [0xN0x/go-artifactsmmo](https://github.com/0xN0x/go-artifactsmmo) - ArtifactsMMO API Golang Wrapper
-- [0xN0x/dofus-map-drawer](https://github.com/0xN0x/dofus-map-drawer) - Program to draw map from map json file
 
 #### 🔨 Latest Pull Requests I published
 
