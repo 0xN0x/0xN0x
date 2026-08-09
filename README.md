@@ -4,7 +4,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### 👷 Check out what I'm currently working on
 
-- [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) - Private discord bot (7 months ago)
+- [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) - Private discord bot (8 months ago)
 
 #### 🌱 My latest projects
 
