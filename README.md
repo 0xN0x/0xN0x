@@ -16,8 +16,8 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rounder round](https://github.com/matsuyoshi30/germanium/pull/42) on [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) (1 year ago)
-- [Remove extra indentation](https://github.com/matsuyoshi30/germanium/pull/41) on [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) (1 year ago)
+- [Rounder round](https://github.com/matsuyoshi30/germanium/pull/42) on [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) (2 years ago)
+- [Remove extra indentation](https://github.com/matsuyoshi30/germanium/pull/41) on [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) (2 years ago)
 - [fix: getJsonValue don&#39;t have parent](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/160) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (2 years ago)
 - [Fix: typos ](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/158) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (2 years ago)
 - [Refactor comments](https://github.com/Chasseur-de-Succes/CDS-BOT/pull/155) on [Chasseur-de-Succes/CDS-BOT](https://github.com/Chasseur-de-Succes/CDS-BOT) (2 years ago)
@@ -26,7 +26,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 - [FusedStamen/antenna-database](https://github.com/FusedStamen/antenna-database) - Antenna Testing Data (1 month ago)
 - [ebitengine/purego](https://github.com/ebitengine/purego) - A library for calling C functions from Go without Cgo (1 month ago)
-- [bikini/exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I&#39;ve always found this is the most efficient way. (1 month ago)
+- [bikini/exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I&#39;ve always found this is the most efficient way. (2 months ago)
 - [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system (4 months ago)
 - [obdev/littlesnitch-linux](https://github.com/obdev/littlesnitch-linux) - Open Source components of Little Snitch for Linux (4 months ago)
 
