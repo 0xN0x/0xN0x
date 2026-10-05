@@ -24,7 +24,7 @@ I'm Nox, a cybersecurity specialist, CTF player and back-end developer 👨‍�
 
 #### ⭐ Recent stars
 
-- [LGUG2Z/awesome-komorebi](https://github.com/LGUG2Z/awesome-komorebi) - A curated list of awesome projects in the Komorebi ecosystem 🍉 (4 days ago)
+- [LGUG2Z/awesome-komorebi](https://github.com/LGUG2Z/awesome-komorebi) - A curated list of awesome projects in the Komorebi ecosystem 🍉 (5 days ago)
 - [FusedStamen/antenna-database](https://github.com/FusedStamen/antenna-database) - Antenna Testing Data (2 months ago)
 - [ebitengine/purego](https://github.com/ebitengine/purego) - A library for calling C functions from Go without Cgo (3 months ago)
 - [bikini/exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I&#39;ve always found this is the most efficient way. (3 months ago)
